@@ -17,3 +17,9 @@
 #2 Duplicate in Array.cpp
 
 ![image](https://user-images.githubusercontent.com/84653100/161482418-9e23798b-a23f-4d06-acef-a88990ffa725.png)
+
+
+#3 Intersection Of Two Arrays.cpp
+
+
+![image](https://user-images.githubusercontent.com/84653100/161566931-1def4640-b12f-4fc5-aa6f-c3938c03aaac.png)
