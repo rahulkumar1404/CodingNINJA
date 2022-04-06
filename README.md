@@ -23,3 +23,10 @@
 
 
 ![image](https://user-images.githubusercontent.com/84653100/161566931-1def4640-b12f-4fc5-aa6f-c3938c03aaac.png)
+
+
+#4 PairSum in c++.cpp
+
+
+
+![image](https://user-images.githubusercontent.com/84653100/161913966-a5306f61-7fa4-4f4e-b17f-feeaed161c4f.png)
