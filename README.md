@@ -28,5 +28,16 @@
 #4 PairSum in c++.cpp
 
 
-
 ![image](https://user-images.githubusercontent.com/84653100/161913966-a5306f61-7fa4-4f4e-b17f-feeaed161c4f.png)
+
+
+#6 Square Root.cpp
+
+
+![image](https://user-images.githubusercontent.com/84653100/162608856-a1268409-6c72-4632-85c6-4f6b7b644193.png)
+
+
+#7 Search In Rotated Sorted Array.cpp
+
+
+![image](https://user-images.githubusercontent.com/84653100/162608897-9e001376-e04a-41cd-b9a7-7adbe0e268ef.png)
