@@ -70,3 +70,13 @@
 ![image](https://user-images.githubusercontent.com/84653100/162786095-6c1a0971-015b-4078-b7f4-5931183f55e7.png)
 
 
+#10 Painter's Partition Problem.cpp
+
+
+![image](https://user-images.githubusercontent.com/84653100/162802541-f5d58699-7f39-4727-89d1-fa34c1f42c43.png)
+
+
+
+#10 Painter's Partition Problem.java
+
+![image](https://user-images.githubusercontent.com/84653100/162803211-b3493a79-afb8-42c0-aef6-ed1b1d8eafad.png)
