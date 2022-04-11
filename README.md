@@ -41,3 +41,10 @@
 
 
 ![image](https://user-images.githubusercontent.com/84653100/162608897-9e001376-e04a-41cd-b9a7-7adbe0e268ef.png)
+
+
+#8 Book Allocation.cpp
+
+
+![image](https://user-images.githubusercontent.com/84653100/162778561-cdb55dc8-b3dd-467c-8fc1-58716babde3b.png)
+
