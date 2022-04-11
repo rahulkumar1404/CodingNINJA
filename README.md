@@ -48,3 +48,9 @@
 
 ![image](https://user-images.githubusercontent.com/84653100/162778561-cdb55dc8-b3dd-467c-8fc1-58716babde3b.png)
 
+
+#8 Book Allocation.java
+
+
+![image](https://user-images.githubusercontent.com/84653100/162780626-253bc88e-79c8-422f-9e60-12cfe47694d3.png)
+
