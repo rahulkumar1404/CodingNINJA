@@ -54,3 +54,19 @@
 
 ![image](https://user-images.githubusercontent.com/84653100/162780626-253bc88e-79c8-422f-9e60-12cfe47694d3.png)
 
+
+
+#9 Aggresive Cows.java
+
+
+![image](https://user-images.githubusercontent.com/84653100/162786279-1fe72d5d-f994-437f-ab12-ed9aa956bd92.png)
+
+
+
+#9 Aggresive Cows.cpp
+
+
+
+![image](https://user-images.githubusercontent.com/84653100/162786095-6c1a0971-015b-4078-b7f4-5931183f55e7.png)
+
+
