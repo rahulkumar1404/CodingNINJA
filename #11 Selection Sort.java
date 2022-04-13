@@ -1,4 +1,4 @@
-//#10 Selection Sort 
+//#11 Selection Sort 
 /*Problem link: https://www.codingninjas.com/codestudio/problems/selection-sort_981162?
 */
 //code
