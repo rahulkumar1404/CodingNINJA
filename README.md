@@ -80,3 +80,16 @@
 #10 Painter's Partition Problem.java
 
 ![image](https://user-images.githubusercontent.com/84653100/162803211-b3493a79-afb8-42c0-aef6-ed1b1d8eafad.png)
+
+
+#11 Selection Sort.java
+
+
+![image](https://user-images.githubusercontent.com/84653100/163218126-3cdc3019-5993-4431-898b-a64e76495fee.png)
+
+
+#11 Selection Sort.cpp
+
+
+![image](https://user-images.githubusercontent.com/84653100/163218309-bda0c353-17a8-40e5-b466-f2bc0fd3b3c9.png)
+
