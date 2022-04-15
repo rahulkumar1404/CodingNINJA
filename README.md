@@ -96,8 +96,8 @@
 
 #12 Bubble sort.cpp
 
-https://www.codingninjas.com/codestudio/problems/bubble-sort_980524
+![image](https://user-images.githubusercontent.com/84653100/163591239-fee74de8-fc27-441f-9a95-59e47620eff3.png)
 
 #12 Bubble sort.java
 
-![image](https://user-images.githubusercontent.com/84653100/163590804-d4a09713-3435-473e-bbc8-7818655e5b5f.png)
+![image](https://user-images.githubusercontent.com/84653100/163591274-b876a87b-3ca3-46cf-8d39-792e3c558205.png)
