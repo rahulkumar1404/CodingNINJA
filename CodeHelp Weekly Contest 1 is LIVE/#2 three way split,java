@@ -1,0 +1,30 @@
+//Problem link: https://www.codingninjas.com/codestudio/contests/love-babbar-contest-l/problems/14804
+//code
+public class Solution {
+    public static long threeWaySplit(int n, int[] arr) {
+        // Write your Code here
+		int s = 0;
+		int e = n-1;
+		int ans =0;
+		int sumofleft=0;
+		int sumofright=0;
+		while(s<e){
+			if(sumofleft<sumofright){
+				sumofleft+=arr[s];
+				s++;
+			}else if(sumofleft>sumofright){
+				sumofright+=arr[e];
+				e--;
+			}else{
+				ans = sumofleft;
+				sumofleft+=arr[s++];
+				sumofright+=arr[e--];
+			}
+		}
+		if(s==e){
+			if(sumofleft<sumofright) sumofleft+=arr[s];
+			if(sumofleft>sumofright) sumofright+=arr[e];
+		}if(sumofleft==sumofright) ans=sumofleft;
+		return ans;
+    }
+}
