@@ -101,3 +101,14 @@
 #12 Bubble sort.java
 
 ![image](https://user-images.githubusercontent.com/84653100/163591274-b876a87b-3ca3-46cf-8d39-792e3c558205.png)
+
+#13 inserion sort.java
+
+
+![image](https://user-images.githubusercontent.com/84653100/163665558-93040911-f2aa-4b65-83fe-2382dd138b4c.png)
+
+
+#13 inserion sort.cpp
+
+
+![image](https://user-images.githubusercontent.com/84653100/163665569-017a1a53-e4f6-498f-97be-558572f53e27.png)
