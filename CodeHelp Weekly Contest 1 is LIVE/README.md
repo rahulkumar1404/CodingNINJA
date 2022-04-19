@@ -19,3 +19,15 @@
 
 
 ![image](https://user-images.githubusercontent.com/84653100/163596976-76c93d76-ce0b-4a09-9708-83eef047d91e.png)
+
+
+#3 Maximize X.java
+
+
+![image](https://user-images.githubusercontent.com/84653100/164041946-ea25c436-1162-4764-bdf6-b461c85f5383.png)
+
+
+#3 Maximize X.cpp
+
+
+![image](https://user-images.githubusercontent.com/84653100/164042051-931928f2-49f2-4900-97a6-324189c8a94a.png)
