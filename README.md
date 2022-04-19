@@ -112,3 +112,16 @@
 
 
 ![image](https://user-images.githubusercontent.com/84653100/163665569-017a1a53-e4f6-498f-97be-558572f53e27.png)
+
+
+
+#14 Reverse The Array.java
+
+![image](https://user-images.githubusercontent.com/84653100/164053596-98f3adcc-2d18-430b-9c1b-6e52199696c1.png)
+
+
+#14 Reverse The Array.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/164053528-a05c9236-28f8-43ea-a014-2a777378de74.png)
+
+
